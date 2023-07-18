@@ -8,7 +8,11 @@
 
        cd user/dataset
 
-3. run bash shell script by
+3. clone this repo inside the DIR of the dataset
+
+       https://github.com/leo007-htun/Auto_Augment.git
+
+5. run bash shell script 
 
        ./augmentation.sh
 
