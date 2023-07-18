@@ -1,5 +1,11 @@
 ## Auto_Augmentation
 
-To use this repo, download the requirements by
+1. Download the requirements 
 
-    pip install -r requirements.txt 
+       pip install -r requirements.txt 
+
+2. redirect to the directory of the datset. (replace user DIR with your dataset)
+
+       cd user/dataset
+   
+
