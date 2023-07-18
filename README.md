@@ -1,4 +1,4 @@
-## Auto_Augmentation
+## Automatic Image Augmentation
 
 1. Download the requirements 
 
