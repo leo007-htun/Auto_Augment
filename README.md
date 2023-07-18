@@ -16,3 +16,5 @@
 
        ./augmentation.sh
 
+Augmented data will be stored under the according dataset with the DIR named ``/augmented_ ``
+
