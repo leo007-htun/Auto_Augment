@@ -1,5 +1,7 @@
 ## Automatic Image Augmentation
 
+![image](https://github.com/leo007-htun/Auto_Augment/assets/66962471/2cbba23c-c010-4c33-80c4-2e9a3068eee0)
+
 1. Download the requirements 
 
        pip install -r requirements.txt 
