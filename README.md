@@ -15,7 +15,11 @@
 
        https://github.com/leo007-htun/Auto_Augment.git
 
-5. run bash shell script 
+4. give executable permission to ``augmentation.sh``
+   
+       chmod +x augmentation.sh
+
+6. run bash shell script 
 
        ./augmentation.sh
 
