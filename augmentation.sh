@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cat acii.txt
-echo -e "\e[1;31m Plz make sure u've installed prerequisties \e[0m"
+echo -e "\e[1;31m Plz make sure u've installed prerequisites \e[0m"
 echo -e "\e[32m Current Directory: \e[0m $(pwd)"
 echo -e "\e[32m Current Directory List: \e[1;33m $(ls -m -d */) \e[0m"
 
