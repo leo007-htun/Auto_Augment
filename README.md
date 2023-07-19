@@ -1,7 +1,6 @@
 ## Automatic Image Augmentation
 
-![image](https://github.com/leo007-htun/Auto_Augment/assets/66962471/44007116-282a-4a6c-a2b0-79fe411acff3)
-
+![image](https://github.com/leo007-htun/Auto_Augment/assets/66962471/86ca88e7-df80-4772-a64b-5d7ccaea3023)
 
 1. Download the requirements 
 
